@@ -10,12 +10,11 @@
 7. [License](#license)
 8. [Questions](#questions)
 ## Description
-This command-line application dynamically generates a professional README.md file from a user's input using the Inquirer package
+This command-line application dynamically generates a professional logo SVG file from a user's input using the Inquirer package
 ## Installation
 After cloning this project use: npm install to install the project
 ## Usage
 To run the application type: node index from the project root directory. You will then be taken through a series of questions. Once all questions have been answered properly, a message will display to the command line telling you your logo has been generated. Find your new logo in the newly generated SVG file.
-A movie of typical usage of this application is available [HERE](https://github.com/Prototype1309)
 
 ## Contributing
 Please contribute to this project:
