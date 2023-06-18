@@ -21,7 +21,7 @@ Please contribute to this project:
 * [Submit bugs and feature requests](https://github.com/Prototype1309/SVG-Logo-Maker/issues), and help us verify as they are checked in
 
 ## Video
-[Walk-though Video Link]
+[Walk-though Video Link] (https://drive.google.com/file/d/1_k2Y-khlP73AVdj54SnpeRQNjcwWgltF/view)
 
 
 ## Tests
